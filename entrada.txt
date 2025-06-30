@@ -1,0 +1,34 @@
+requests urllib3
+requests chardet
+requests certifi
+idna requests
+urllib3
+chardet
+certifi
+idna
+flask werkzeug
+flask jinja2
+flask click
+jinja2 markupsafe
+click
+numpy pandas
+pandas 
+pandas python-dateutil
+pandas pytz
+python-dateutil six
+pytz
+scipy numpy
+matplotlib numpy
+matplotlib python-dateutil
+matplotlib kiwisolver
+matplotlib pillow
+kiwisolver
+pillow
+sqlalchemy
+alembic sqlalchemy
+alembic python-dateutil
+pytest setuptools
+setuptools
+six
+scikit-learn numpy
+scikit-learn scipy
